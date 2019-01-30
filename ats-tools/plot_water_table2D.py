@@ -40,8 +40,6 @@ def water_table(dirname, datum=None, v86=False, patm=101325.):
     keys,times,dats = parse_ats.readATS(dirname, "visdump_surface_data.h5")
     pd = parse_ats.get2DSurfaceData(keys, dats, prefix+"ponded_depth")
 
-    
-    #elev_surf = dats[prefix+"elevation.cell.0"][keys[0]][36] # old mesh
     center = len(dats[prefix+"elevation.cell.0"][keys[0]])
     print 'Center location: ', center
     
@@ -68,8 +66,6 @@ def water_table(dirname, datum=None, v86=False, patm=101325.):
         if pd[k, xnum-1] > 0:
             wt[k] = pd[k, xnum-1] + datum_offset
             wt_surf[k] = pd[k, xnum-1] + datum_offset
-            
-            
         else:
             wt_index = np.where(col_dat[vars ,k,xnum-1, :] >= patm)[0] #var 1
             
@@ -97,8 +93,6 @@ def water_table(dirname, datum=None, v86=False, patm=101325.):
             else:
                 wt_ss[k] = col_dat[1,k,xnum-1, temp_index] - datum
 
-            #if (temp_data[wt_index0] > 273.25):
-            #    wt_bottom[k] = col_dat[1,k,xnum-1, wt_index0] - datum
                 
         temp_index = np.where(col_dat[vars+1 ,k,xnum-1, :] >= 273.25)[0] ##
 
@@ -106,6 +100,75 @@ def water_table(dirname, datum=None, v86=False, patm=101325.):
             thaw_depth[k] = col_dat[1,k,xnum-1, temp_index[0]] - datum
         
     return times, wt, wt_ss, wt_bottom, thaw_depth
+
+
+def water_table2D(dirname, datum=None, location='center', v86=False, patm=101325.):
+    prefix = "" if v86 else "surface-"
+
+    # get the ponded depth
+    keys,times,dats = parse_ats.readATS(dirname, "visdump_surface_data.h5")
+    pd = parse_ats.get2DSurfaceData(keys, dats, prefix+"ponded_depth")
+
+    if location == 'center':
+        center = len(dats[prefix+"elevation.cell.0"][keys[0]])
+    elif location == 'trough':
+        center = 1
+        
+    print 'Location: ', location, center
+    
+    elev_cell = dats[prefix+"elevation.cell.0"][keys[0]][center-1]
+    dats.close()
+    print ('Datum (surface elevation)', elev_cell)
+    if datum is None:
+        datum = elev_cell
+    datum_offset = elev_cell - datum
+
+    # get the columnar pressure
+    water_table = np.zeros((len(keys),),'d')
+    thaw_depth = np.zeros((len(keys),),'d')
+
+    
+    col_dat = transect_data.transect_data(['pressure', 'temperature'], directory=dirname)
+        
+    vars = 2
+    nvar, cycles, xnum, znum = col_dat.shape
+    #print xnum
+    xnum = center
+    #print xnum
+    for k in range(col_dat.shape[1]):
+
+        if pd[k, xnum-1] > 0:
+            water_table[k] = pd[k, xnum-1] + datum_offset
+            #wt_surf[k] = pd[k, xnum-1] + datum_offset
+            #print 'surface:: ',k, pd[k, xnum-1]
+        else:
+            #print 'subsurface: ', k, pd[k, xnum-1]
+            wt_index = np.where(col_dat[vars ,k,xnum-1, :] >= patm)[0] #var 1
+            
+            temp_index = np.where(col_dat[vars+1 ,k,xnum-1, :] >= 273.25)[0] ##
+            temp_data = col_dat[vars + 1,k,xnum-1, :] #var 2
+
+            if len(wt_index) is 0:
+                wt_index = 0
+            else:
+                wt_index = wt_index[-1]
+
+            if (len(temp_index) is 0):
+                temp_index =0
+            else:
+                temp_index = temp_index[0]
+            
+            if (temp_data[wt_index] > 273.25):
+                water_table[k] = col_dat[1,k,xnum-1, wt_index] - datum
+                
+        temp_index = np.where(col_dat[vars+1 ,k,xnum-1, :] >= 273.2)[0] ##
+        #print col_dat[vars+1 ,k,xnum-1, :], round(times[k]*365.25,2), k
+        if len(temp_index) > 0:
+            #print 'ALT: ', len(temp_index), temp_index[0], col_dat[vars+1 ,k,xnum-1, temp_index[0]]
+
+            thaw_depth[k] = col_dat[1,k,xnum-1, temp_index[0]] - datum
+        
+    return times, water_table, thaw_depth, elev_cell
 
 def plot_water_table(times, wt, ax, **kwargs):
     ax.plot(times, wt, **kwargs)
