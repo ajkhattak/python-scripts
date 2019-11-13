@@ -1,0 +1,864 @@
+A
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585747, 7.91071e+06, 0>
+Zone:  341
+
+B
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585751, 7.9107e+06, 0>
+Zone:  438
+
+C
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585750, 7.91069e+06, 0>
+Zone:  345
+
+D
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585739, 7.91069e+06, 0>
+Zone:  344
+
+E
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585736, 7.9107e+06, 0>
+Zone:  342
+
+F
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585705, 7.9107e+06, 0>
+Zone:  346
+
+G
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585727, 7.91067e+06, 0>
+Zone:  343
+
+H
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585751, 7.91067e+06, 0>
+Zone:  350
+
+I
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585732, 7.91065e+06, 0>
+Zone:  338
+
+J
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585717, 7.91065e+06, 0>
+Zone:  337
+
+K
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585707, 7.91067e+06, 0>
+Zone:  347
+
+L
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585688, 7.91069e+06, 0>
+Zone:  291
+
+M
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585694, 7.91067e+06, 0>
+Zone:  348
+
+N
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585681, 7.91067e+06, 0>
+Zone:  292
+
+O
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585692, 7.91066e+06, 0>
+Zone:  349
+
+P
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585698, 7.91065e+06, 0>
+Zone:  336
+
+Q
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585677, 7.91065e+06, 0>
+Zone:  290
+
+R
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585662, 7.91064e+06, 0>
+Zone:  289
+
+S
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585671, 7.91064e+06, 0>
+Zone:  288
+
+T
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585650, 7.91063e+06, 0>
+Zone:  287
+
+U
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585662, 7.91063e+06, 0>
+Zone:  286
+
+V
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585671, 7.91063e+06, 0>
+Zone:  285
+
+W
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585688, 7.91063e+06, 0>
+Zone:  282
+
+X
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585684, 7.91062e+06, 0>
+Zone:  283
+
+Y
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585702, 7.91064e+06, 0>
+Zone:  333
+
+A
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585796, 7.91061e+06, 0>
+Zone:  376
+
+B
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585758, 7.9106e+06, 0>
+Zone:  369
+
+C
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585765, 7.9106e+06, 0>
+Zone:  368
+
+D
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585784, 7.9106e+06, 0>
+Zone:  370
+
+E
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585743, 7.91061e+06, 0>
+Zone:  319
+
+F
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585741, 7.91063e+06, 0>
+Zone:  326
+
+G
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585736, 7.91064e+06, 0>
+Zone:  329
+
+H
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585732, 7.91065e+06, 0>
+Zone:  335
+
+I
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585725, 7.91064e+06, 0>
+Zone:  330
+
+J
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585728, 7.91063e+06, 0>
+Zone:  328
+
+K
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585719, 7.91063e+06, 0>
+Zone:  332
+
+L
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585710, 7.91063e+06, 0>
+Zone:  331
+
+M
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585722, 7.91062e+06, 0>
+Zone:  322
+
+N
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585737, 7.91059e+06, 0>
+Zone:  320
+
+O
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585749, 7.91059e+06, 0>
+Zone:  321
+
+P
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585775, 7.9106e+06, 0>
+Zone:  371
+
+Q
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585779, 7.91059e+06, 0>
+Zone:  373
+
+R
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585772, 7.91054e+06, 0>
+Zone:  353
+
+S
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585696, 7.91061e+06, 0>
+Zone:  323
+
+T
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585693, 7.91061e+06, 0>
+Zone:  315
+
+U
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585695, 7.9106e+06, 0>
+Zone:  314
+
+V
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585713, 7.91057e+06, 0>
+Zone:  308
+
+W
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585723, 7.91057e+06, 0>
+Zone:  309
+
+X
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585727, 7.91056e+06, 0>
+Zone:  304
+
+Y
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585711, 7.91055e+06, 0>
+Zone:  302
+
+A
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585613, 7.91062e+06, 0>
+Zone:  281
+
+B
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585619, 7.91062e+06, 0>
+Zone:  278
+
+C
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585631, 7.91062e+06, 0>
+Zone:  279
+
+D
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585643, 7.91061e+06, 0>
+Zone:  280
+
+E
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585661, 7.91061e+06, 0>
+Zone:  276
+
+F
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585623, 7.91061e+06, 0>
+Zone:  269
+
+G
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585616, 7.91059e+06, 0>
+Zone:  268
+
+H
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585616, 7.91059e+06, 0>
+Zone:  267
+
+I
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585627, 7.91059e+06, 0>
+Zone:  266
+
+J
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585650, 7.91057e+06, 0>
+Zone:  263
+
+K
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585630, 7.91057e+06, 0>
+Zone:  248
+
+L
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585636, 7.91057e+06, 0>
+Zone:  264
+
+M
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585660, 7.91058e+06, 0>
+Zone:  272
+
+N
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585660, 7.91059e+06, 0>
+Zone:  274
+
+O
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585674, 7.91058e+06, 0>
+Zone:  275
+
+P
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585698, 7.91059e+06, 0>
+Zone:  311
+
+Q
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585666, 7.91055e+06, 0>
+Zone:  256
+
+R
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585672, 7.91052e+06, 0>
+Zone:  111
+
+S
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585681, 7.91053e+06, 0>
+Zone:  250
+
+T
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585655, 7.91055e+06, 0>
+Zone:  253
+
+U
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585652, 7.91056e+06, 0>
+Zone:  257
+
+V
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585646, 7.91054e+06, 0>
+Zone:  259
+
+W
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585648, 7.91054e+06, 0>
+Zone:  260
+
+X
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585637, 7.91054e+06, 0>
+Zone:  235
+
+Y
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585630, 7.91053e+06, 0>
+Zone:  236
+
+A
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585646, 7.91055e+06, 0>
+Zone:  243
+
+B
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585636, 7.91055e+06, 0>
+Zone:  244
+
+C
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585610, 7.91054e+06, 0>
+Zone:  242
+
+D
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585616, 7.91052e+06, 0>
+Zone:  85
+
+E
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585710, 7.9105e+06, 0>
+Zone:  185
+
+F
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585729, 7.91052e+06, 0>
+Zone:  188
+
+G
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585726, 7.91053e+06, 0>
+Zone:  306
+
+H
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585745, 7.91051e+06, 0>
+Zone:  203
+
+I
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585739, 7.91052e+06, 0>
+Zone:  184
+
+J
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585733, 7.91054e+06, 0>
+Zone:  296
+
+K
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585724, 7.91054e+06, 0>
+Zone:  305
+
+L
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585713, 7.91054e+06, 0>
+Zone:  298
+
+M
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585790, 7.91051e+06, 0>
+Zone:  215
+
+N
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585752, 7.91048e+06, 0>
+Zone:  196
+
+O
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585756, 7.91047e+06, 0>
+Zone:  195
+
+P
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585761, 7.91045e+06, 0>
+Zone:  192
+
+Q
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585761, 7.91043e+06, 0>
+Zone:  170
+
+R
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585837, 7.91042e+06, 0>
+Zone:  160
+
+S
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585862, 7.91043e+06, 0>
+Zone:  161
+
+T
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585732, 7.91037e+06, 0>
+Zone:  123
+
+U
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585716, 7.91036e+06, 0>
+Zone:  124
+
+V
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585728, 7.91038e+06, 0>
+Zone:  127
+
+W
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585706, 7.91038e+06, 0>
+Zone:  129
+
+X
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585697, 7.91037e+06, 0>
+Zone:  125
+
+Y
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585676, 7.91038e+06, 0>
+Zone:  88
+
+A
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585660, 7.91038e+06, 0>
+Zone:  89
+
+B
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585666, 7.91037e+06, 0>
+Zone:  57
+
+C
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585671, 7.91036e+06, 0>
+Zone:  55
+
+D
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585692, 7.91036e+06, 0>
+Zone:  122
+
+E
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585678, 7.91036e+06, 0>
+Zone:  56
+
+F
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585685, 7.91037e+06, 0>
+Zone:  54
+
+G
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585703, 7.91036e+06, 0>
+Zone:  121
+
+H
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585703, 7.91034e+06, 0>
+Zone:  117
+
+I
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585664, 7.91035e+06, 0>
+Zone:  50
+
+J
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585650, 7.91034e+06, 0>
+Zone:  45
+
+K
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585657, 7.91034e+06, 0>
+Zone:  44
+
+L
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585646, 7.91037e+06, 0>
+Zone:  58
+
+M
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585621, 7.91037e+06, 0>
+Zone:  27
+
+N
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585643, 7.91036e+06, 0>
+Zone:  51
+
+O
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585624, 7.91035e+06, 0>
+Zone:  48
+
+P
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585655, 7.91032e+06, 0>
+Zone:  38
+
+Q
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585648, 7.91031e+06, 0>
+Zone:  36
+
+R
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585641, 7.91032e+06, 0>
+Zone:  39
+
+S
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585645, 7.91029e+06, 0>
+Zone:  33
+
+T
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585641, 7.91026e+06, 0>
+Zone:  30
+
+U
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585629, 7.91026e+06, 0>
+Zone:  31
+
+V
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585619, 7.91026e+06, 0>
+Zone:  0
+
+W
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585610, 7.91026e+06, 0>
+Zone:  1
+
+X
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585630, 7.91027e+06, 0>
+Zone:  32
+
+Y
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585619, 7.91028e+06, 0>
+Zone:  3
+
+A
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585620, 7.91029e+06, 0>
+Zone:  35
+
+B
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585605, 7.91027e+06, 0>
+Zone:  2
+
+C
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585615, 7.91028e+06, 0>
+Zone:  4
+
+D
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585600, 7.91028e+06, 0>
+Zone:  5
+
+E
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585609, 7.91028e+06, 0>
+Zone:  4
+
+F
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585598, 7.91028e+06, 0>
+Zone:  7
+
+G
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585594, 7.91029e+06, 0>
+Zone:  8
+
+H
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585603, 7.91036e+06, 0>
+Zone:  26
+
+I
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585577, 7.91037e+06, 0>
+Zone:  59
+
+J
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585642, 7.91043e+06, 0>
+Zone:  97
+
+K
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585641, 7.91044e+06, 0>
+Zone:  102
+
+L
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585685, 7.91045e+06, 0>
+Zone:  189
+
+M
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585568, 7.91047e+06, 0>
+Zone:  83
+
+N
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585717, 7.91042e+06, 0>
+Zone:  140
+
+O
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585722, 7.91041e+06, 0>
+Zone:  137
+
+P
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585733, 7.9104e+06, 0>
+Zone:  133
+
+Q
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585750, 7.9104e+06, 0>
+Zone:  131
+
+R
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585753, 7.91041e+06, 0>
+Zone:  159
+
+S
+visdump_surface_star_data.h5.17.xmf
+Mesh 
+Point: <585783, 7.91042e+06, 0>
+Zone:  168
+
