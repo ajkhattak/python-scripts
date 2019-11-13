@@ -1,0 +1,1066 @@
+C
+visdump_surface_star_data.h5.11.xmf
+Point: <585643, 7.91026e+06, 0>
+Zone:  30
+unnamed2:  <zonal> = 30
+
+
+D
+visdump_surface_star_data.h5.11.xmf
+Point: <585627, 7.91026e+06, 0>
+Zone:  31
+unnamed2:  <zonal> = 31
+
+
+E
+visdump_surface_star_data.h5.11.xmf
+Point: <585621, 7.91026e+06, 0>
+Zone:  0
+unnamed2:  <zonal> = 0
+
+
+F
+visdump_surface_star_data.h5.11.xmf
+Point: <585611, 7.91026e+06, 0>
+Zone:  1
+unnamed2:  <zonal> = 1
+
+
+G
+visdump_surface_star_data.h5.11.xmf
+Point: <585609, 7.91027e+06, 0>
+Zone:  2
+unnamed2:  <zonal> = 2
+
+H
+visdump_surface_star_data.h5.11.xmf
+Point: <585601, 7.91028e+06, 0>
+Zone:  3
+unnamed2:  <zonal> = 3
+
+H
+visdump_surface_star_data.h5.11.xmf
+Point: <585601, 7.91028e+06, 0>
+Zone:  5
+unnamed2:  <zonal> = 5
+
+
+I
+visdump_surface_star_data.h5.11.xmf
+Point: <585611, 7.91028e+06, 0>
+Zone:  4
+unnamed2:  <zonal> = 4
+
+
+J
+visdump_surface_star_data.h5.11.xmf
+Point: <585599, 7.91028e+06, 0>
+Zone:  7
+unnamed2:  <zonal> = 7
+
+
+K
+visdump_surface_star_data.h5.11.xmf
+Point: <585596, 7.91029e+06, 0>
+Zone:  8
+unnamed2:  <zonal> = 8
+
+
+L
+visdump_surface_star_data.h5.11.xmf
+Point: <585608, 7.91029e+06, 0>
+Zone:  6
+unnamed2:  <zonal> = 6
+
+
+M
+visdump_surface_star_data.h5.11.xmf
+Point: <585599, 7.9103e+06, 0>
+Zone:  9
+unnamed2:  <zonal> = 9
+
+
+N
+visdump_surface_star_data.h5.11.xmf
+Point: <585629, 7.9103e+06, 0>
+Zone:  10
+unnamed2:  <zonal> = 10
+
+
+O
+visdump_surface_star_data.h5.11.xmf
+Point: <585605, 7.91031e+06, 0>
+Zone:  11
+unnamed2:  <zonal> = 11
+
+
+P
+visdump_surface_star_data.h5.11.xmf
+Point: <585621, 7.91029e+06, 0>
+Zone:  35
+unnamed2:  <zonal> = 35
+
+
+Q
+visdump_surface_star_data.h5.11.xmf
+Point: <585634, 7.9103e+06, 0>
+Zone:  37
+unnamed2:  <zonal> = 37
+
+
+R
+visdump_surface_star_data.h5.11.xmf
+Point: <585646, 7.91029e+06, 0>
+Zone:  33
+unnamed2:  <zonal> = 33
+
+
+S
+visdump_surface_star_data.h5.11.xmf
+Point: <585630, 7.91029e+06, 0>
+Zone:  34
+unnamed2:  <zonal> = 34
+
+
+T
+visdump_surface_star_data.h5.11.xmf
+Point: <585643, 7.91028e+06, 0>
+Zone:  29
+unnamed2:  <zonal> = 29
+
+
+U
+visdump_surface_star_data.h5.11.xmf
+Point: <585634, 7.91032e+06, 0>
+Zone:  43
+unnamed2:  <zonal> = 43
+
+
+V
+visdump_surface_star_data.h5.11.xmf
+Point: <585643, 7.91032e+06, 0>
+Zone:  39
+unnamed2:  <zonal> = 39
+
+
+W
+visdump_surface_star_data.h5.11.xmf
+Point: <585647, 7.91031e+06, 0>
+Zone:  36
+unnamed2:  <zonal> = 36
+
+
+X
+visdump_surface_star_data.h5.11.xmf
+Point: <585657, 7.91032e+06, 0>
+Zone:  38
+unnamed2:  <zonal> = 38
+
+
+Y
+visdump_surface_star_data.h5.11.xmf
+Point: <585638, 7.91033e+06, 0>
+Zone:  41
+unnamed2:  <zonal> = 41
+
+
+Z
+visdump_surface_star_data.h5.11.xmf
+Point: <585648, 7.91033e+06, 0>
+Zone:  40
+unnamed2:  <zonal> = 40
+
+
+a
+visdump_surface_star_data.h5.11.xmf
+Point: <585660, 7.91033e+06, 0>
+Zone:  44
+unnamed2:  <zonal> = 44
+
+-----
+
+AA
+visdump_surface_star_data.h5.11.xmf
+Point: <585723, 7.91041e+06, 0>
+Zone:  137
+unnamed2:  <zonal> = 137
+
+
+c
+visdump_surface_star_data.h5.11.xmf
+Point: <585549, 7.91033e+06, 0>
+Zone:  16
+unnamed2:  <zonal> = 16
+
+
+d
+visdump_surface_star_data.h5.11.xmf
+Point: <585577, 7.91037e+06, 0>
+Zone:  59
+unnamed2:  <zonal> = 59
+
+
+e
+visdump_surface_star_data.h5.11.xmf
+Point: <585602, 7.91036e+06, 0>
+Zone:  26
+unnamed2:  <zonal> = 26
+
+
+f
+visdump_surface_star_data.h5.11.xmf
+Point: <585628, 7.91036e+06, 0>
+Zone:  27
+unnamed2:  <zonal> = 27
+
+
+g
+visdump_surface_star_data.h5.11.xmf
+Point: <585642, 7.91037e+06, 0>
+Zone:  58
+unnamed2:  <zonal> = 58
+
+
+h
+visdump_surface_star_data.h5.11.xmf
+Point: <585669, 7.91037e+06, 0>
+Zone:  57
+unnamed2:  <zonal> = 57
+
+
+i
+visdump_surface_star_data.h5.11.xmf
+Point: <585656, 7.91038e+06, 0>
+Zone:  89
+unnamed2:  <zonal> = 89
+
+
+j
+visdump_surface_star_data.h5.11.xmf
+Point: <585678, 7.91038e+06, 0>
+Zone:  88
+unnamed2:  <zonal> = 88
+
+
+k
+visdump_surface_star_data.h5.11.xmf
+Point: <585680, 7.91037e+06, 0>
+Zone:  54
+unnamed2:  <zonal> = 54
+
+
+l
+visdump_surface_star_data.h5.11.xmf
+Point: <585694, 7.91036e+06, 0>
+Zone:  122
+unnamed2:  <zonal> = 122
+
+
+m
+visdump_surface_star_data.h5.11.xmf
+Point: <585690, 7.91035e+06, 0>
+Zone:  118
+unnamed2:  <zonal> = 118
+
+
+n
+visdump_surface_star_data.h5.11.xmf
+Point: <585686, 7.91034e+06, 0>
+Zone:  120
+unnamed2:  <zonal> = 120
+
+
+o
+visdump_surface_star_data.h5.11.xmf
+Point: <585687, 7.91033e+06, 0>
+Zone:  119
+unnamed2:  <zonal> = 119
+
+
+p
+visdump_surface_star_data.h5.11.xmf
+Point: <585675, 7.91034e+06, 0>
+Zone:  49
+unnamed2:  <zonal> = 49
+
+
+q
+visdump_surface_star_data.h5.11.xmf
+Point: <585665, 7.91035e+06, 0>
+Zone:  50
+unnamed2:  <zonal> = 50
+
+
+r
+visdump_surface_star_data.h5.11.xmf
+Point: <585703, 7.91034e+06, 0>
+Zone:  117
+unnamed2:  <zonal> = 117
+
+
+s
+visdump_surface_star_data.h5.11.xmf
+Point: <585704, 7.91036e+06, 0>
+Zone:  121
+unnamed2:  <zonal> = 121
+
+
+t
+visdump_surface_star_data.h5.11.xmf
+Point: <585698, 7.91037e+06, 0>
+Zone:  125
+unnamed2:  <zonal> = 125
+
+
+u
+visdump_surface_star_data.h5.11.xmf
+Point: <585712, 7.91036e+06, 0>
+Zone:  124
+unnamed2:  <zonal> = 124
+
+
+v
+visdump_surface_star_data.h5.11.xmf
+Point: <585737, 7.91037e+06, 0>
+Zone:  123
+unnamed2:  <zonal> = 123
+
+
+w
+visdump_surface_star_data.h5.11.xmf
+Point: <585750, 7.91037e+06, 0>
+Zone:  126
+unnamed2:  <zonal> = 126
+
+
+x
+visdump_surface_star_data.h5.11.xmf
+Point: <585729, 7.91038e+06, 0>
+Zone:  127
+unnamed2:  <zonal> = 127
+
+
+y
+visdump_surface_star_data.h5.11.xmf
+Point: <585706, 7.91038e+06, 0>
+Zone:  129
+unnamed2:  <zonal> = 129
+
+
+z
+visdump_surface_star_data.h5.11.xmf
+Point: <585727, 7.9104e+06, 0>
+Zone:  133
+unnamed2:  <zonal> = 133
+
+
+----
+
+BB
+visdump_surface_star_data.h5.11.xmf
+Point: <585784, 7.91041e+06, 0>
+Zone:  156
+unnamed2:  <zonal> = 156
+
+
+CC
+visdump_surface_star_data.h5.11.xmf
+Point: <585783, 7.91042e+06, 0>
+Zone:  168
+unnamed2:  <zonal> = 168
+
+
+DD
+visdump_surface_star_data.h5.11.xmf
+Point: <585775, 7.91043e+06, 0>
+Zone:  169
+unnamed2:  <zonal> = 169
+
+
+EE
+visdump_surface_star_data.h5.11.xmf
+Point: <585767, 7.91042e+06, 0>
+Zone:  158
+unnamed2:  <zonal> = 158
+
+
+FF
+visdump_surface_star_data.h5.11.xmf
+Point: <585761, 7.91043e+06, 0>
+Zone:  170
+unnamed2:  <zonal> = 170
+
+
+GG
+visdump_surface_star_data.h5.11.xmf
+Point: <585745, 7.91043e+06, 0>
+Zone:  171
+unnamed2:  <zonal> = 171
+
+
+HH
+visdump_surface_star_data.h5.11.xmf
+Point: <585751, 7.91041e+06, 0>
+Zone:  159
+unnamed2:  <zonal> = 159
+
+
+II
+visdump_surface_star_data.h5.11.xmf
+Point: <585781, 7.91046e+06, 0>
+Zone:  190
+unnamed2:  <zonal> = 190
+
+
+JJ
+visdump_surface_star_data.h5.11.xmf
+Point: <585761, 7.91045e+06, 0>
+Zone:  192
+unnamed2:  <zonal> = 192
+
+
+KK
+visdump_surface_star_data.h5.11.xmf
+Point: <585774, 7.91047e+06, 0>
+Zone:  191
+unnamed2:  <zonal> = 191
+
+
+LL
+visdump_surface_star_data.h5.11.xmf
+Point: <585757, 7.91047e+06, 0>
+Zone:  195
+unnamed2:  <zonal> = 195
+
+
+MM
+visdump_surface_star_data.h5.11.xmf
+Point: <585753, 7.91048e+06, 0>
+Zone:  196
+unnamed2:  <zonal> = 196
+
+
+NN
+visdump_surface_star_data.h5.11.xmf
+Point: <585730, 7.9104e+06, 0>
+Zone:  133
+unnamed2:  <zonal> = 133
+
+
+OO
+visdump_surface_star_data.h5.11.xmf
+Point: <585719, 7.91041e+06, 0>
+Zone:  137
+unnamed2:  <zonal> = 137
+
+
+PP
+visdump_surface_star_data.h5.11.xmf
+Point: <585716, 7.91042e+06, 0>
+Zone:  140
+unnamed2:  <zonal> = 140
+
+
+QQ
+visdump_surface_star_data.h5.11.xmf
+Point: <585742, 7.91041e+06, 0>
+Zone:  135
+unnamed2:  <zonal> = 135
+
+
+RR
+visdump_surface_star_data.h5.11.xmf
+Point: <585640, 7.91044e+06, 0>
+Zone:  102
+unnamed2:  <zonal> = 102
+
+
+SS
+visdump_surface_star_data.h5.11.xmf
+Point: <585626, 7.91045e+06, 0>
+Zone:  80
+unnamed2:  <zonal> = 80
+
+
+TT
+visdump_surface_star_data.h5.11.xmf
+Point: <585518, 7.91047e+06, 0>
+Zone:  76
+unnamed2:  <zonal> = 76
+
+
+UU
+visdump_surface_star_data.h5.11.xmf
+Point: <585526, 7.91047e+06, 0>
+Zone:  75
+unnamed2:  <zonal> = 75
+
+
+VV
+visdump_surface_star_data.h5.11.xmf
+Point: <585574, 7.91046e+06, 0>
+Zone:  83
+unnamed2:  <zonal> = 83
+
+
+WW
+visdump_surface_star_data.h5.11.xmf
+Point: <585635, 7.9105e+06, 0>
+Zone:  115
+unnamed2:  <zonal> = 115
+
+
+XX
+visdump_surface_star_data.h5.11.xmf
+Point: <585650, 7.9105e+06, 0>
+Zone:  114
+unnamed2:  <zonal> = 114
+
+
+YY
+visdump_surface_star_data.h5.11.xmf
+Point: <585662, 7.91051e+06, 0>
+Zone:  112
+unnamed2:  <zonal> = 112
+
+
+ZZ
+visdump_surface_star_data.h5.11.xmf
+Point: <585660, 7.91049e+06, 0>
+Zone:  113
+unnamed2:  <zonal> = 113
+
+
+
+------
+zz
+visdump_surface_star_data.h5.11.xmf
+Point: <585658, 7.91058e+06, 0>
+Zone:  272
+unnamed2:  <zonal> = 272
+
+
+A
+visdump_surface_star_data.h5.11.xmf
+Point: <585659, 7.9106e+06, 0>
+Zone:  274
+unnamed2:  <zonal> = 274
+
+
+cc
+visdump_surface_star_data.h5.11.xmf
+Point: <585638, 7.91057e+06, 0>
+Zone:  264
+unnamed2:  <zonal> = 264
+
+
+dd
+visdump_surface_star_data.h5.11.xmf
+Point: <585631, 7.91057e+06, 0>
+Zone:  248
+unnamed2:  <zonal> = 248
+
+
+ee
+visdump_surface_star_data.h5.11.xmf
+Point: <585635, 7.91058e+06, 0>
+Zone:  265
+unnamed2:  <zonal> = 265
+
+
+ff
+visdump_surface_star_data.h5.11.xmf
+Point: <585614, 7.91059e+06, 0>
+Zone:  267
+unnamed2:  <zonal> = 267
+
+
+gg
+visdump_surface_star_data.h5.11.xmf
+Point: <585627, 7.91059e+06, 0>
+Zone:  266
+unnamed2:  <zonal> = 266
+
+
+hh
+visdump_surface_star_data.h5.11.xmf
+Point: <585616, 7.9106e+06, 0>
+Zone:  268
+unnamed2:  <zonal> = 268
+
+
+ii
+visdump_surface_star_data.h5.11.xmf
+Point: <585625, 7.9106e+06, 0>
+Zone:  269
+unnamed2:  <zonal> = 269
+
+
+jj
+visdump_surface_star_data.h5.11.xmf
+Point: <585616, 7.91061e+06, 0>
+Zone:  281
+unnamed2:  <zonal> = 281
+
+
+kk
+visdump_surface_star_data.h5.11.xmf
+Point: <585621, 7.91062e+06, 0>
+Zone:  278
+unnamed2:  <zonal> = 278
+
+
+ll
+visdump_surface_star_data.h5.11.xmf
+Point: <585631, 7.91062e+06, 0>
+Zone:  279
+unnamed2:  <zonal> = 279
+
+
+mm
+visdump_surface_star_data.h5.11.xmf
+Point: <585648, 7.91061e+06, 0>
+Zone:  280
+unnamed2:  <zonal> = 280
+
+
+nn
+visdump_surface_star_data.h5.11.xmf
+Point: <585637, 7.9106e+06, 0>
+Zone:  270
+unnamed2:  <zonal> = 270
+
+
+oo
+visdump_surface_star_data.h5.11.xmf
+Point: <585646, 7.91063e+06, 0>
+Zone:  287
+unnamed2:  <zonal> = 287
+
+
+pp
+visdump_surface_star_data.h5.11.xmf
+Point: <585662, 7.91063e+06, 0>
+Zone:  286
+unnamed2:  <zonal> = 286
+
+
+qq
+visdump_surface_star_data.h5.11.xmf
+Point: <585675, 7.91063e+06, 0>
+Zone:  285
+unnamed2:  <zonal> = 285
+
+
+rr
+visdump_surface_star_data.h5.11.xmf
+Point: <585665, 7.91064e+06, 0>
+Zone:  289
+unnamed2:  <zonal> = 289
+
+
+ss
+visdump_surface_star_data.h5.11.xmf
+Point: <585670, 7.91064e+06, 0>
+Zone:  288
+unnamed2:  <zonal> = 288
+
+
+tt
+visdump_surface_star_data.h5.11.xmf
+Point: <585692, 7.91063e+06, 0>
+Zone:  282
+unnamed2:  <zonal> = 282
+
+
+uu
+visdump_surface_star_data.h5.11.xmf
+Point: <585674, 7.91065e+06, 0>
+Zone:  290
+unnamed2:  <zonal> = 290
+
+
+vv
+visdump_surface_star_data.h5.11.xmf
+Point: <585680, 7.91067e+06, 0>
+Zone:  292
+unnamed2:  <zonal> = 292
+
+
+ww
+visdump_surface_star_data.h5.11.xmf
+Point: <585693, 7.91066e+06, 0>
+Zone:  349
+unnamed2:  <zonal> = 349
+
+
+xx
+visdump_surface_star_data.h5.11.xmf
+Point: <585698, 7.91065e+06, 0>
+Zone:  336
+unnamed2:  <zonal> = 336
+
+
+yy
+visdump_surface_star_data.h5.11.xmf
+Point: <585660, 7.91061e+06, 0>
+Zone:  276
+unnamed2:  <zonal> = 276
+
+
+
+-----
+
+B
+visdump_surface_star_data.h5.11.xmf
+Point: <585662, 7.91064e+06, 0>
+Zone:  289
+unnamed2:  <zonal> = 289
+
+
+C
+visdump_surface_star_data.h5.11.xmf
+Point: <585672, 7.91064e+06, 0>
+Zone:  288
+unnamed2:  <zonal> = 288
+
+
+D
+visdump_surface_star_data.h5.11.xmf
+Point: <585674, 7.91065e+06, 0>
+Zone:  290
+unnamed2:  <zonal> = 290
+
+
+E
+visdump_surface_star_data.h5.11.xmf
+Point: <585700, 7.91065e+06, 0>
+Zone:  336
+unnamed2:  <zonal> = 336
+
+
+F
+visdump_surface_star_data.h5.11.xmf
+Point: <585695, 7.91066e+06, 0>
+Zone:  349
+unnamed2:  <zonal> = 349
+
+
+G
+visdump_surface_star_data.h5.11.xmf
+Point: <585679, 7.91066e+06, 0>
+Zone:  292
+unnamed2:  <zonal> = 292
+
+
+H
+visdump_surface_star_data.h5.11.xmf
+Point: <585698, 7.91067e+06, 0>
+Zone:  348
+unnamed2:  <zonal> = 348
+
+
+I
+visdump_surface_star_data.h5.11.xmf
+Point: <585689, 7.91068e+06, 0>
+Zone:  291
+unnamed2:  <zonal> = 291
+
+
+J
+visdump_surface_star_data.h5.11.xmf
+Point: <585708, 7.91067e+06, 0>
+Zone:  347
+unnamed2:  <zonal> = 347
+
+
+K
+visdump_surface_star_data.h5.11.xmf
+Point: <585703, 7.91069e+06, 0>
+Zone:  346
+unnamed2:  <zonal> = 346
+
+
+L
+visdump_surface_star_data.h5.11.xmf
+Point: <585730, 7.91067e+06, 0>
+Zone:  343
+unnamed2:  <zonal> = 343
+
+
+M
+visdump_surface_star_data.h5.11.xmf
+Point: <585736, 7.9107e+06, 0>
+Zone:  342
+unnamed2:  <zonal> = 342
+
+
+N
+visdump_surface_star_data.h5.11.xmf
+Point: <585752, 7.9107e+06, 0>
+Zone:  438
+unnamed2:  <zonal> = 438
+
+
+O
+visdump_surface_star_data.h5.11.xmf
+Point: <585744, 7.91072e+06, 0>
+Zone:  340
+unnamed2:  <zonal> = 340
+
+
+P
+visdump_surface_star_data.h5.11.xmf
+Point: <585747, 7.91073e+06, 0>
+Zone:  340
+unnamed2:  <zonal> = 340
+
+
+Q
+visdump_surface_star_data.h5.11.xmf
+Point: <585752, 7.91071e+06, 0>
+Zone:  341
+unnamed2:  <zonal> = 341
+
+
+R
+visdump_surface_star_data.h5.11.xmf
+Point: <585745, 7.91067e+06, 0>
+Zone:  350
+unnamed2:  <zonal> = 350
+
+
+S
+visdump_surface_star_data.h5.11.xmf
+Point: <585732, 7.91065e+06, 0>
+Zone:  338
+unnamed2:  <zonal> = 338
+
+
+T
+visdump_surface_star_data.h5.11.xmf
+Point: <585720, 7.91065e+06, 0>
+Zone:  337
+unnamed2:  <zonal> = 337
+
+
+U
+visdump_surface_star_data.h5.11.xmf
+Point: <585713, 7.91064e+06, 0>
+Zone:  334
+unnamed2:  <zonal> = 334
+
+
+V
+visdump_surface_star_data.h5.11.xmf
+Point: <585703, 7.91063e+06, 0>
+Zone:  333
+unnamed2:  <zonal> = 333
+
+
+W
+visdump_surface_star_data.h5.11.xmf
+Point: <585709, 7.91062e+06, 0>
+Zone:  331
+unnamed2:  <zonal> = 331
+
+
+X
+visdump_surface_star_data.h5.11.xmf
+Point: <585701, 7.91062e+06, 0>
+Zone:  327
+unnamed2:  <zonal> = 327
+
+
+Y
+visdump_surface_star_data.h5.11.xmf
+Point: <585719, 7.91063e+06, 0>
+Zone:  332
+unnamed2:  <zonal> = 332
+
+
+Z
+visdump_surface_star_data.h5.11.xmf
+Point: <585725, 7.91064e+06, 0>
+Zone:  330
+unnamed2:  <zonal> = 330
+
+
+----
+a
+visdump_surface_star_data.h5.11.xmf
+Point: <585635, 7.91053e+06, 0>
+Zone:  235
+unnamed2:  <zonal> = 235
+
+
+b
+visdump_surface_star_data.h5.11.xmf
+Point: <585640, 7.91055e+06, 0>
+Zone:  239
+unnamed2:  <zonal> = 239
+
+
+c
+visdump_surface_star_data.h5.11.xmf
+Point: <585635, 7.91055e+06, 0>
+Zone:  244
+unnamed2:  <zonal> = 244
+
+
+d
+visdump_surface_star_data.h5.11.xmf
+Point: <585645, 7.91055e+06, 0>
+Zone:  243
+unnamed2:  <zonal> = 243
+
+
+e
+visdump_surface_star_data.h5.11.xmf
+Point: <585654, 7.91055e+06, 0>
+Zone:  257
+unnamed2:  <zonal> = 257
+
+
+f
+visdump_surface_star_data.h5.11.xmf
+Point: <585657, 7.91055e+06, 0>
+Zone:  253
+unnamed2:  <zonal> = 253
+
+
+g
+visdump_surface_star_data.h5.11.xmf
+Point: <585646, 7.91055e+06, 0>
+Zone:  260
+unnamed2:  <zonal> = 260
+
+
+h
+visdump_surface_star_data.h5.11.xmf
+Point: <585662, 7.91056e+06, 0>
+Zone:  262
+unnamed2:  <zonal> = 262
+
+
+i
+visdump_surface_star_data.h5.11.xmf
+Point: <585666, 7.91055e+06, 0>
+Zone:  256
+unnamed2:  <zonal> = 256
+
+
+j
+visdump_surface_star_data.h5.11.xmf
+Point: <585648, 7.91057e+06, 0>
+Zone:  263
+unnamed2:  <zonal> = 263
+
+
+k
+visdump_surface_star_data.h5.11.xmf
+Point: <585796, 7.91062e+06, 0>
+Zone:  376
+unnamed2:  <zonal> = 376
+
+
+l
+visdump_surface_star_data.h5.11.xmf
+Point: <585784, 7.9106e+06, 0>
+Zone:  370
+unnamed2:  <zonal> = 370
+
+
+m
+visdump_surface_star_data.h5.11.xmf
+Point: <585775, 7.9106e+06, 0>
+Zone:  371
+unnamed2:  <zonal> = 371
+
+
+n
+visdump_surface_star_data.h5.11.xmf
+Point: <585778, 7.91059e+06, 0>
+Zone:  373
+unnamed2:  <zonal> = 373
+
+
+o
+visdump_surface_star_data.h5.11.xmf
+Point: <585765, 7.9106e+06, 0>
+Zone:  368
+unnamed2:  <zonal> = 368
+
+
+p
+visdump_surface_star_data.h5.11.xmf
+Point: <585725, 7.91053e+06, 0>
+Zone:  306
+unnamed2:  <zonal> = 306
+
+
+q
+visdump_surface_star_data.h5.11.xmf
+Point: <585732, 7.91054e+06, 0>
+Zone:  296
+unnamed2:  <zonal> = 296
+
+
+r
+visdump_surface_star_data.h5.11.xmf
+Point: <585723, 7.91054e+06, 0>
+Zone:  305
+unnamed2:  <zonal> = 305
+
+
+s
+visdump_surface_star_data.h5.11.xmf
+Point: <585713, 7.91057e+06, 0>
+Zone:  308
+unnamed2:  <zonal> = 308
+
+
+t
+visdump_surface_star_data.h5.11.xmf
+Point: <585699, 7.91059e+06, 0>
+Zone:  311
+unnamed2:  <zonal> = 311
+
+
+u
+visdump_surface_star_data.h5.11.xmf
+Point: <585693, 7.9106e+06, 0>
+Zone:  314
+unnamed2:  <zonal> = 314
+
+
+v
+visdump_surface_star_data.h5.11.xmf
+Point: <585707, 7.9106e+06, 0>
+Zone:  316
+unnamed2:  <zonal> = 316
+
+
+w
+visdump_surface_star_data.h5.11.xmf
+Point: <585724, 7.9106e+06, 0>
+Zone:  317
+unnamed2:  <zonal> = 317
+
+
+x
+visdump_surface_star_data.h5.11.xmf
+Point: <585713, 7.91061e+06, 0>
+Zone:  324
+unnamed2:  <zonal> = 324
+
+
+y
+visdump_surface_star_data.h5.11.xmf
+Point: <585725, 7.91062e+06, 0>
+Zone:  322
+unnamed2:  <zonal> = 322
+
+
+
+
