@@ -1,0 +1,63 @@
+base_porosity
+  Type: independent
+
+capillary_pressure_gas_liq
+  Type: secondary
+  Dep: pressure
+
+cell_volume
+  Type: independent
+
+effective_pressure
+  Type: secondary
+  Dep: pressure
+
+molar_density_liquid,mass_density_liquid,
+  Type: secondary
+  Dep: effective_pressure
+  Dep: temperature
+
+molar_density_liquid,mass_density_liquid,
+  Type: secondary
+  Dep: effective_pressure
+  Dep: temperature
+
+permeability
+  Type: independent
+
+porosity
+  Type: secondary
+  Dep: base_porosity
+  Dep: pressure
+
+pressure
+  Type: primary
+
+relative_permeability
+  Type: secondary
+  Dep: molar_density_liquid
+  Dep: saturation_liquid
+  Dep: viscosity_liquid
+
+saturation_liquid,saturation_gas,
+  Type: secondary
+  Dep: capillary_pressure_gas_liq
+
+saturation_liquid,saturation_gas,
+  Type: secondary
+  Dep: capillary_pressure_gas_liq
+
+temperature
+  Type: independent
+
+viscosity_liquid
+  Type: secondary
+  Dep: temperature
+
+water_content
+  Type: secondary
+  Dep: cell_volume
+  Dep: molar_density_liquid
+  Dep: porosity
+  Dep: saturation_liquid
+
