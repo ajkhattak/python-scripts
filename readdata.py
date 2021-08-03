@@ -41,8 +41,8 @@ def WaterContentOneFile(file, var):
     
     return dat
 
-def GetSurfVarFromVis(file, var, cellid):
-    var1 = var + '.cell.0'
+def GetSurfVarFromVis(file, var, cellid,suffix='.cell.0'):
+    var1 = var + suffix
     with h5py.File(file, 'r') as hf:
         keys = list(hf.keys())
         keys = list(hf[keys[0]].keys())
@@ -130,4 +130,22 @@ def ReadExcelFile(infile):
 def Plot(Data):
     plt.plot(Data['time'], Data['data'])
     plt.show()
-    
+
+
+def get_mesh_coords(infile):
+    file = h5py.File(infile,'r')
+    data = list(file['0']['Mesh']['Nodes'])
+    mesh = dict()
+    X_mesh = []
+    Y_mesh = []
+    Z_mesh = []
+
+    for m in data:
+        X_mesh.append(m[0])
+        Y_mesh.append(m[1])
+        Z_mesh.append(m[2])
+    mesh['x'] = X_mesh
+    mesh['y'] = Y_mesh
+    mesh['z'] = Z_mesh
+
+    return mesh

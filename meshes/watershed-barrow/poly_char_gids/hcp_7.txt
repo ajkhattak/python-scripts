@@ -1,0 +1,117 @@
+A
+visdump_surface_star_data.VisIt.xmf
+Mesh 
+Point: <585697, 7.91059e+06, 0>
+Zone:  314
+Incident Nodes:  667  589  575  574  661  
+surface_star-elevation.cell.0:  <zonal> = 4.92708
+
+
+B
+visdump_surface_star_data.VisIt.xmf
+Mesh 
+Point: <585791, 7.91051e+06, 0>
+Zone:  215
+Incident Nodes:  434  428  430  461  
+surface_star-elevation.cell.0:  <zonal> = 4.82401
+
+
+C
+visdump_surface_star_data.VisIt.xmf
+Mesh 
+Point: <585724, 7.91054e+06, 0>
+Zone:  305
+Incident Nodes:  644  641  640  642  
+surface_star-elevation.cell.0:  <zonal> = 4.94677
+
+
+D
+visdump_surface_star_data.VisIt.xmf
+Mesh 
+Point: <585733, 7.91054e+06, 0>
+Zone:  296
+Incident Nodes:  641  409  632  636  640  
+surface_star-elevation.cell.0:  <zonal> = 4.96011
+
+
+E
+visdump_surface_star_data.VisIt.xmf
+Mesh 
+Point: <585727, 7.91053e+06, 0>
+Zone:  306
+Incident Nodes:  409  641  644  643  416  
+surface_star-elevation.cell.0:  <zonal> = 4.98535
+
+
+F
+visdump_surface_star_data.VisIt.xmf
+Mesh 
+Point: <585729, 7.91053e+06, 0>
+Zone:  188
+Incident Nodes:  406  409  416  402  
+surface_star-elevation.cell.0:  <zonal> = 4.98536
+
+
+G
+visdump_surface_star_data.VisIt.xmf
+Mesh 
+Point: <585718, 7.91038e+06, 0>
+Zone:  128
+Incident Nodes:  298  291  287  297  
+surface_star-elevation.cell.0:  <zonal> = 5.07348
+
+
+H
+visdump_surface_star_data.VisIt.xmf
+Mesh 
+Point: <585732, 7.91038e+06, 0>
+Zone:  127
+Incident Nodes:  296  297  287  286  285  
+surface_star-elevation.cell.0:  <zonal> = 5.04109
+
+
+I
+visdump_surface_star_data.VisIt.xmf
+Mesh 
+Point: <585740, 7.91043e+06, 0>
+Zone:  138
+Incident Nodes:  315  311  312  316  
+surface_star-elevation.cell.0:  <zonal> = 5.00004
+
+
+J
+visdump_surface_star_data.VisIt.xmf
+Mesh 
+Point: <585751, 7.91043e+06, 0>
+Zone:  171
+Incident Nodes:  316  312  357  356  320  
+surface_star-elevation.cell.0:  <zonal> = 4.98796
+
+
+K
+visdump_surface_star_data.VisIt.xmf
+Mesh 
+Point: <585760, 7.91043e+06, 0>
+Zone:  170
+Incident Nodes:  320  356  355  378  
+surface_star-elevation.cell.0:  <zonal> = 5.01162
+
+
+L
+visdump_surface_star_data.VisIt.xmf
+Mesh 
+Point: <585814, 7.91052e+06, 0>
+Zone:  217
+Incident Nodes:  460  457  456  463  
+surface_star-elevation.cell.0:  <zonal> = 4.81233
+
+
+M
+visdump_surface_star_data.VisIt.xmf
+Mesh 
+Point: <585770, 7.9105e+06, 0>
+Zone:  199
+Incident Nodes:  435  425  429  433  
+surface_star-elevation.cell.0:  <zonal> = 4.83391
+
+
